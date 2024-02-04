@@ -88,7 +88,7 @@ p {
     max-height: 200px;
 }
 
-#three_services {
+.content div h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
