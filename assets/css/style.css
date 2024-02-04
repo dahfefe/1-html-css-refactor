@@ -84,11 +84,11 @@ p {
     margin-right: 25px;
 }
 
-.content div img {
+.content img {
     max-height: 200px;
 }
 
-.content div h2 {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
