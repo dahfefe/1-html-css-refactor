@@ -84,7 +84,7 @@ p {
     margin-right: 25px;
 }
 
-#image_height {
+.content div img {
     max-height: 200px;
 }
 
